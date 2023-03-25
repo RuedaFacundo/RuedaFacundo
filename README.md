@@ -1,11 +1,11 @@
-<h1 align="center">Hola! Mi nombre es Facundo Rueda 👋</h1>
-<h3 align="center">Soy un desarrollador de Argentina</h3>
+<h1 align="center">Hello! My name is Facundo Rueda 👋</h1>
+<h3 align="center">I'm a developer from Argentina.</h3>
 
-Actualmente me dedico a:
+Currently, I'm dedicated to:
 
-- 💻 Desempeñar el puesto de java developer en una empresa Argentina, realizando el desarrollo y mantenimiento del sistema Zeus Gestión Web.
-- 📝 Reforzar mis conocimientos y aprender nuevas tecnologías mediante cursos.
-- 🌱 Mi proximo desafio es aprender el framework Spring Boot.
+- 💻 Working as a Java Developer at an Argentine company, working with the following technologies: Spring Boot, JPA, Git, PostgreSQL, Sentry, Grafana, Vaadin, SQL Server, Jira Cloud, and Gitlab.
+- 📝 Reinforcing my knowledge and learning new technologies through courses.
+- 🌱 My next challenge is to learn Docker and Kubernetes.
 
 ____
 
@@ -13,9 +13,9 @@ ____
 
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
 ____
@@ -26,6 +26,9 @@ ____
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
 ____
@@ -58,7 +61,7 @@ ____
 
 ____
 
-<h3 align="left">Contacto:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//www.linkedin.com/in/facundorueda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/www.linkedin.com/in/facundorueda/" height="30" width="40" /></a>
 </p>
