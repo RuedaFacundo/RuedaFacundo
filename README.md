@@ -3,9 +3,8 @@
 
 Currently, I'm dedicated to:
 
-- 💻 Working as a Java Developer at an Argentine company, working with the following technologies: Spring Boot, JPA, Git, PostgreSQL, Sentry, Grafana, Vaadin, SQL Server, Jira Cloud, and Gitlab.
+- 💻 Working as a Java Developer at an Argentine company, working with the following technologies: Java, Spring Boot, JPA, Junit, Kafka, PostgreSQL, SQL Server, MongoDB, Oracle Database, OpenShift, Jenkis, Kibana, Jmeter, Sentry, Grafana, Vaadin, Git, Github and Gitlab.
 - 📝 Reinforcing my knowledge and learning new technologies through courses.
-- 🌱 My next challenge is to learn Docker and Kubernetes.
 
 ____
 
